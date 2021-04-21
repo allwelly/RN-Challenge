@@ -64,7 +64,7 @@ Your app should be able to complete these tasks:
 
 ## How to run the demo
 - Clone the repo
-- Run npm install and npm start
+- Run `npm install` then `npm start`
 - Open app on your selected platform
 - Click "LET'S START PLANNING" to... start planning
 - Input new task in the "Add Task" text input, note: each task must be unique.
